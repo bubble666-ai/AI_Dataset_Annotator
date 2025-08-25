@@ -1,0 +1,4 @@
+,filepath,ground_truth,weak_label,verified_label,status,confidence
+22012,../data\raw-img\ragno\OIP-jt8fMknQxXwGcryBjQQuQQAAAA.jpeg,ragno,ragno,ragno,verified,
+10451,../data\raw-img\farfalla\OIP-OSdzPT_VPpAevRS1KZ1mDQHaHa.jpeg,farfalla,farfalla,farfalla,verified,
+6497,../data\raw-img\cavallo\OIP-o99otBswlIB67PPgT_KxfQHaFl.jpeg,cavallo,elefante,farfalla,verified,0.2000565106533324
