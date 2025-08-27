@@ -1,4 +1,4 @@
-\# 🧠 AI-Powered Dataset Annotator with Active Learning
+🧠 AI-Powered Dataset Annotator with Active Learning
 
 
 
@@ -10,7 +10,7 @@ This project is an advanced web application designed to accelerate the annotatio
 
 
 
-\### 📸 Live Demo
+📸 Live Demo
 
 
 
@@ -22,7 +22,7 @@ This project is an advanced web application designed to accelerate the annotatio
 
 
 
-\### ✨ Key Features
+✨ Key Features
 
 
 
@@ -56,11 +56,11 @@ This project is an advanced web application designed to accelerate the annotatio
 
 
 
-\### 🚀 Setup and Installation
+🚀 Setup and Installation
 
 
 
-\#### 1. Clone the Repository
+ 1. Clone the Repository
 
 ```bash
 
